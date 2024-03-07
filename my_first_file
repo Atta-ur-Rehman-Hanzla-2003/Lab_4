@@ -3,4 +3,5 @@ using namespace;
 int main()
 {
 cout<<"the addition of two number:"<<a+b<<endl;
+cout<<"subtraction of two number"<<a-b<<endl;
 }
